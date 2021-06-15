@@ -174,5 +174,3 @@ class Agenda:
 prueba = Agenda()
 prueba.menu_opciones()
 
-"""mejorar editar, validar nombre, validar email, validar telefono,
- capturar excepciones, raisear errores, traducir al inglés, hacer commit en github"""
